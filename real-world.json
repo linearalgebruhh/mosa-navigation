@@ -1,0 +1,13 @@
+[
+  {
+    "id": "indoor-short-range-01",
+    "title": "Short-range indoor navigation",
+    "setting": "Indoor",
+    "range": "Short range",
+    "duration": 35.166719,
+    "video": "https://github.com/linearalgebruhh/mosa-navigation/releases/download/real-world-v1/MoSA_realworld_indoor_short_range_01_web.mp4",
+    "original": "https://github.com/linearalgebruhh/mosa-navigation/releases/download/real-world-v1/MoSA_realworld_indoor_short_range_01.mp4",
+    "poster": "./posters/MoSA_realworld_indoor_short_range_01.jpg",
+    "outcome": null
+  }
+]
