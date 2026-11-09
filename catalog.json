@@ -1,0 +1,327 @@
+[
+  {
+    "id": "test_city20271009_task0008",
+    "file": "MOSA_fail_test_city20271009_task0008_continuous_20261108_224952.mp4",
+    "outcome": "FAIL",
+    "reasons": [
+      "collision"
+    ],
+    "duration": 158.1,
+    "city": 20271009,
+    "distance": 171.5,
+    "finalDistance": 105.052,
+    "frames": 1582
+  },
+  {
+    "id": "test_city20271009_task0035",
+    "file": "MOSA_fail_test_city20271009_task0035_continuous_20261108_224952.mp4",
+    "outcome": "FAIL",
+    "reasons": [
+      "collision"
+    ],
+    "duration": 462.7,
+    "city": 20271009,
+    "distance": 156.1,
+    "finalDistance": 11.946,
+    "frames": 4628
+  },
+  {
+    "id": "test_city20271009_task0037",
+    "file": "MOSA_fail_test_city20271009_task0037_continuous_20261108_224952.mp4",
+    "outcome": "FAIL",
+    "reasons": [
+      "time_out"
+    ],
+    "duration": 900,
+    "city": 20271009,
+    "distance": 201,
+    "finalDistance": 4.522,
+    "frames": 9001
+  },
+  {
+    "id": "test_city20271010_task0007",
+    "file": "MOSA_fail_test_city20271010_task0007_continuous_20261108_224952.mp4",
+    "outcome": "FAIL",
+    "reasons": [
+      "time_out"
+    ],
+    "duration": 900,
+    "city": 20271010,
+    "distance": 200.2,
+    "finalDistance": 6.926,
+    "frames": 9001
+  },
+  {
+    "id": "test_city20271010_task0037",
+    "file": "MOSA_fail_test_city20271010_task0037_continuous_20261108_224952.mp4",
+    "outcome": "FAIL",
+    "reasons": [
+      "collision"
+    ],
+    "duration": 713.2,
+    "city": 20271010,
+    "distance": 155.2,
+    "finalDistance": 16.3,
+    "frames": 7133
+  },
+  {
+    "id": "test_city20271015_task0005",
+    "file": "MOSA_fail_test_city20271015_task0005_continuous_20261108_224952.mp4",
+    "outcome": "FAIL",
+    "reasons": [
+      "collision"
+    ],
+    "duration": 201.5,
+    "city": 20271015,
+    "distance": 145.2,
+    "finalDistance": 138.496,
+    "frames": 2016
+  },
+  {
+    "id": "test_city20271015_task0012",
+    "file": "MOSA_fail_test_city20271015_task0012_continuous_20261108_224952.mp4",
+    "outcome": "FAIL",
+    "reasons": [
+      "collision"
+    ],
+    "duration": 446.5,
+    "city": 20271015,
+    "distance": 162.3,
+    "finalDistance": 73.114,
+    "frames": 4466
+  },
+  {
+    "id": "test_city20271015_task0038",
+    "file": "MOSA_fail_test_city20271015_task0038_continuous_20261108_224952.mp4",
+    "outcome": "FAIL",
+    "reasons": [
+      "collision"
+    ],
+    "duration": 223,
+    "city": 20271015,
+    "distance": 146.8,
+    "finalDistance": 56.809,
+    "frames": 2231
+  },
+  {
+    "id": "test_city20271015_task0040",
+    "file": "MOSA_fail_test_city20271015_task0040_continuous_20261108_224952.mp4",
+    "outcome": "FAIL",
+    "reasons": [
+      "time_out"
+    ],
+    "duration": 900,
+    "city": 20271015,
+    "distance": 139.1,
+    "finalDistance": 3.592,
+    "frames": 9001
+  },
+  {
+    "id": "test_city20271005_task0006",
+    "file": "MOSA_success_test_city20271005_task0006_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 433.8,
+    "city": 20271005,
+    "distance": 159.8,
+    "finalDistance": 0.487,
+    "frames": 4339
+  },
+  {
+    "id": "test_city20271005_task0014",
+    "file": "MOSA_success_test_city20271005_task0014_20261108_182935.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 450.9,
+    "city": 20271005,
+    "distance": 176,
+    "finalDistance": 0.499,
+    "frames": 4510
+  },
+  {
+    "id": "test_city20271005_task0017",
+    "file": "MOSA_success_test_city20271005_task0017_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 735.2,
+    "city": 20271005,
+    "distance": 219.4,
+    "finalDistance": 0.468,
+    "frames": 7353
+  },
+  {
+    "id": "test_city20271005_task0022",
+    "file": "MOSA_success_test_city20271005_task0022_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 450.4,
+    "city": 20271005,
+    "distance": 165.7,
+    "finalDistance": 0.475,
+    "frames": 4505
+  },
+  {
+    "id": "test_city20271005_task0030",
+    "file": "MOSA_success_test_city20271005_task0030_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 407.2,
+    "city": 20271005,
+    "distance": 192.5,
+    "finalDistance": 0.483,
+    "frames": 4073
+  },
+  {
+    "id": "test_city20271009_task0003",
+    "file": "MOSA_success_test_city20271009_task0003_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 492.9,
+    "city": 20271009,
+    "distance": 211.2,
+    "finalDistance": 0.467,
+    "frames": 4930
+  },
+  {
+    "id": "test_city20271009_task0032",
+    "file": "MOSA_success_test_city20271009_task0032_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 438.8,
+    "city": 20271009,
+    "distance": 154.5,
+    "finalDistance": 0.462,
+    "frames": 4389
+  },
+  {
+    "id": "test_city20271010_task0002",
+    "file": "MOSA_success_test_city20271010_task0002_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 448.6,
+    "city": 20271010,
+    "distance": 202.6,
+    "finalDistance": 0.49,
+    "frames": 4487
+  },
+  {
+    "id": "test_city20271010_task0020",
+    "file": "MOSA_success_test_city20271010_task0020_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 463.8,
+    "city": 20271010,
+    "distance": 206.1,
+    "finalDistance": 0.464,
+    "frames": 4639
+  },
+  {
+    "id": "test_city20271010_task0022",
+    "file": "MOSA_success_test_city20271010_task0022_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 442.1,
+    "city": 20271010,
+    "distance": 150.4,
+    "finalDistance": 0.496,
+    "frames": 4422
+  },
+  {
+    "id": "test_city20271014_task0018",
+    "file": "MOSA_success_test_city20271014_task0018_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 419.4,
+    "city": 20271014,
+    "distance": 160.5,
+    "finalDistance": 0.489,
+    "frames": 4195
+  },
+  {
+    "id": "test_city20271014_task0025",
+    "file": "MOSA_success_test_city20271014_task0025_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 446.7,
+    "city": 20271014,
+    "distance": 167.5,
+    "finalDistance": 0.461,
+    "frames": 4468
+  },
+  {
+    "id": "test_city20271014_task0034",
+    "file": "MOSA_success_test_city20271014_task0034_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 453.5,
+    "city": 20271014,
+    "distance": 205.1,
+    "finalDistance": 0.498,
+    "frames": 4536
+  },
+  {
+    "id": "test_city20271014_task0039",
+    "file": "MOSA_success_test_city20271014_task0039_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 329.1,
+    "city": 20271014,
+    "distance": 125,
+    "finalDistance": 0.496,
+    "frames": 3292
+  },
+  {
+    "id": "test_city20271014_task0053",
+    "file": "MOSA_success_test_city20271014_task0053_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 451.6,
+    "city": 20271014,
+    "distance": 179.1,
+    "finalDistance": 0.366,
+    "frames": 4517
+  },
+  {
+    "id": "test_city20271015_task0018",
+    "file": "MOSA_success_test_city20271015_task0018_continuous_20261108_224952.mp4",
+    "outcome": "SUCCESS",
+    "reasons": [
+      "reached"
+    ],
+    "duration": 487.7,
+    "city": 20271015,
+    "distance": 183.7,
+    "finalDistance": 0.494,
+    "frames": 4878
+  }
+]

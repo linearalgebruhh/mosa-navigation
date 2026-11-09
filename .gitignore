@@ -1,0 +1,6 @@
+DEPLOYMENT.txt
+*.mp4
+*.zip
+*.log
+.env*
+node_modules/
