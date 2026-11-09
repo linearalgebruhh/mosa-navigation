@@ -1,4 +1,8 @@
-MOSA: Visual PointNav in Urban Environments
+MoSA: Motion-Grounded Spatial Attention for Long-Horizon Visual Navigation
+
+Supplementary video website accompanying the paper.
+Sections: method overview, urban simulation, real-world deployment,
+and simulation recording protocol. Real-world recordings are pending.
 
 Qualitative recordings of Go2 navigation in five fixed urban test cities.
 25 complete episodes: 16 goal arrivals, 6 collisions, and 3 timeouts.
